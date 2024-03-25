@@ -1,3 +1,21 @@
+みなさんこんにちは 🙇🏽,
+
+はじめまして。私の名前アレクスです。よろしくお願いします。😀
+
+### Project setup
+
+#### 1. Setup virtual environment and activate it
+```bash
+$ python3 -m venv env
+```
+```bash
+$ source env/bin/activate
+```
+#### 2. Install all the dependencies
+```bash
+$ pip install -r requirements.txt
+```
+
 ### Data points to scrap
 
 - [X] Product details page URL
